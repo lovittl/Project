@@ -11,7 +11,8 @@
 	#The database for the application will include tables to house the Songs, Albums, Playlists, ExportPackages, and Users.
 	#The application will include the ability of users to select music by artist, song, genre, year, and album.  
 
-	#Users will also be able to create packages and playlists that can be burned to CD or copied to storage devices for portability.  
+	#Users will also be able to create packages and playlists that can be burned to CD or copied to storage devices for
+	#portability.  
 
 ##Stretch goals 
 	#Include the ability to view history and select favorites.  
